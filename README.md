@@ -1,6 +1,7 @@
 # Wordpress With Docker
 
-You can setup Wordpress with docker. but how?? let's check. 
+As we know that WordPress is one of the most popular content management system (CMS). Running WordPress typically involves Apache, MySQL and PHP which is time-consuming. This is where Docker comes in to simplify the installation process. Installing WordPress with Docker is a breeze.
+Let's see how you can setup Wordpress with docker?? 
 
 ## Why should we use docker??
 Many of you are thinking that why should we use docker. so the answer is using docker you don't need xampp or any other big stack tools to be installed. All of you needs to know is how to run docker containers. You only needs to create one simple file with .yml or .yaml extension to setting up the wordpress.
